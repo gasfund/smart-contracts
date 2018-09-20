@@ -1,0 +1,35 @@
+Token name: Gas Fund
+
+Token ticker: GASF
+
+Token decimals: 18
+
+Multisig wallet address: 0x956881bc9Fbef7a2D176bfB371Be9Ab3e66683fD
+
+*****************************
+
+Crowdsale rate: 1052
+
+Crowdsale start time: 2018-12-11T00:00 (GMT + 1)
+
+Crowdsale end time: 2018-12-18T00:00 (GMT + 1)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Null finalize agent contract name: NullFinalizeAgentExt
+
+Null finalize agent contract address for Tier 8: 0x507Ca7b15efEDF70a7f65F505a677C8d5C2f0049
+
+*****************************
+
+****Null Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"reservedTokensDistributionBatch","type":"uint256"}],"name":"distributeReservedTokens","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"reservedTokensAreDistributed","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"inputs":[{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Null Finalize agent contract ABI encoded constructor arguments for Tier 8:**** 
+
+0000000000000000000000008ab8f4ae1c1792a20f57ee3dd6eda733806fa03a
